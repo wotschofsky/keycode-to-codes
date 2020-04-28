@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/keycode-to-codest)](https://www.npmjs.com/package/keycode-to-codes)
+[![npm](https://img.shields.io/npm/v/keycode-to-codes)](https://www.npmjs.com/package/keycode-to-codes)
 
 # keycode-to-codes
 
