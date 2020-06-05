@@ -13,7 +13,9 @@ Example:
 ## Code example
 
 ```javascript
-  const keyCodeToCodes = require('keycode-to-codes');
+  import keyCodeToCodes from 'keycode-to-codes';
+  // OR
+  const keyCodeToCodes = require('keycode-to-codes').default;
 
   window.addEventListener('keypress', (event) => {
     const codes = keyCodeToCodes(event.keyCode);
