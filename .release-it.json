@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "after:bump": "npm run build"
+  },
+  "git": {
+    "tagName": "v${version}"
+  },
+  "github": {
+    "release": true,
+    "assets": [
+      "dist/*.js",
+      "dist/*.map"
+    ]
+  }
+}

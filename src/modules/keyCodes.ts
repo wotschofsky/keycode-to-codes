@@ -1,4 +1,5 @@
 // Based on https://gist.github.com/jiyinyiyong/5915004
+
 const keyCodes: { [code: number]: string[] } = {
   8: ['Backspace'],
   9: ['Tab'],

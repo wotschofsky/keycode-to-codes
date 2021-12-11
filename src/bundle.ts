@@ -1,2 +1,2 @@
 import keyCodeToCodes from './modules/keyCodeToCodes';
-export default keyCodeToCodes;
+window.keyCodeToCodes = keyCodeToCodes;
