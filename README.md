@@ -6,8 +6,8 @@ Library that returns a list of possible KeyboardEvent codes based the input keyC
 Useful for replacing a missing KeyboardEvent.code property.
 
 Example:
-13 -> `["Enter", "NumpadEnter"]`
-32 -> `["Space"]`
+13 -> `["Enter", "NumpadEnter"]` \
+32 -> `["Space"]` \
 97 -> `["KeyA"]`
 
 ## Installation
@@ -29,7 +29,7 @@ Alternatively you can also import the script found in the releases section on Gi
 Or include through a public CDN:
 
 ```html
-<script src="https://unpkg.com/keycode-to-codes@1/dist/keycode-to-codes.min.js"></script>
+<script src="https://unpkg.com/keycode-to-codes@2/dist/keycode-to-codes.min.js"></script>
 ```
 
 ### Usage Example
