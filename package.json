@@ -1,7 +1,7 @@
 {
   "name": "keycode-to-codes",
   "description": "Library that returns a list of KeyboardEvent codes based the input keyCode",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "author": "Felix Wotschofsky <hello@felisk.io>",
   "license": "MIT",
   "main": "dist/main/index.js",
